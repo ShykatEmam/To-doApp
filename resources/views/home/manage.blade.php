@@ -11,7 +11,7 @@
             <div class="col-md-10 offset-1">
                 <div class="card">
                     <div class="card-header text-center">
-                        <h1>Manage Student info</h1>
+                        <h1>Manage Todo info</h1>
                     </div>
                     <div class="card-body table-responsive">
                         @if (session('message'))
